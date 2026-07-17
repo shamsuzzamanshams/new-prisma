@@ -1,3 +1,3 @@
-# new-prisma!
+# new-prisma
 
 
